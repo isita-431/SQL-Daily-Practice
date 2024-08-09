@@ -1,2 +1,2 @@
-# SQL-Leetcode-Practice
+# SQL-Daily-Practice
 This is a repository of SQL Problems i solve on a daily basis from Leetcode and Hackerrank their multiple Approaches. 
