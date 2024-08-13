@@ -1,0 +1,1 @@
+Select Case When Grade < 8 Then Null Else Name End as Name,Grade,Marks From students Left join Grades on students.marks between Grades.min_mark and Grades.max_mark Order by Grade DESC,Name,Marks
